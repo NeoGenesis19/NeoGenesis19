@@ -2,7 +2,7 @@
 
 # ¡Hola! Bienvenido a mi Perfil 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Daniel+Villado...;Tengo+25+anos+...;Ing.+en+Redes+Inteligentes+...;y+Ciberseguridad..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Daniel+Villado...;Tengo+25+años+...;Ing.+en+Redes+Inteligentes+...;y+Ciberseguridad..."/>
 
 <p>- <i>Ingeniero en Redes Inteligentes y Ciberseguridad apasionado por la tecnología, la protección de datos y la infraestructura de TI. Desarrollando habilidades en seguridad informática, administración de redes, análisis de vulnerabilidades y automatización. Comprometido con el aprendizaje continuo y en busca de retos que me permitan proteger y optimizar entornos tecnológicos.</i></p>
 
