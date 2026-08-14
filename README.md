@@ -4,15 +4,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Daniel+Villado...;Tengo+25+años+...;Ing.+en+Redes+Inteligentes+...;y+Ciberseguridad..."/>
 
-<p>- <i>Ingeniero en Redes Inteligentes y Ciberseguridad apasionado por la tecnología, la protección de datos y la infraestructura de TI. Desarrollando habilidades en seguridad informática, administración de redes, análisis de vulnerabilidades y automatización. Comprometido con el aprendizaje continuo y en busca de retos que me permitan proteger y optimizar entornos tecnológicos.</i></p>
+<p>- <i>Ingeniero en Redes Inteligentes y Ciberseguridad apasionado por la tecnología, la protección de datos y la infraestructura de TI. Desarrollando habilidades en seguridad informática, administración de redes, análisis de vulnerabilidades y automatización. Comprometido con el aprendizaje continuo y en busca de retos que me permitan mejorar.</i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="40%" align="right" />
+<img src="https://media1.tenor.com/m/g7dAcehcqAAAAAAC/akame-akame-ga-kill.gif" width="40%" align="right" />
 
 ## ⚡ Sobre mí
 
 - 🎓 **Profesión:** Ing. en Redes Inteligentes y Ciberseguridad
 - 🇲🇽 **Ubicación:** México
-- 🌱 **Foco actual:** Especializándome automatización de red, prgramación y edición de video
+- 🌱 **Foco actual:** Especializándome automatización de red, análisis de datos y edición de video
 - 👨‍💻 **Pronombres:** He/Him
 - 📫 **Contacto:** dannyvillado2001@gmail.com
 
