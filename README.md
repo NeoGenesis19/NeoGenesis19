@@ -2,9 +2,9 @@
 
 # ¡Hola! Bienvenido a mi Perfil 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Daniel+Villado...;Tengo+25+años+...;Ing.+en+Redes+Inteligentes+...;y+Ciberseguridad..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Daniel+Villado...;Ing.+en+Redes+Inteligentes+...;y+Ciberseguridad..."/>
 
-<p>- <i>Ingeniero en Redes Inteligentes y Ciberseguridad apasionado por la tecnología, la protección de datos y la infraestructura de TI. Desarrollando habilidades en seguridad informática, administración de redes, análisis de vulnerabilidades y automatización. Comprometido con el aprendizaje continuo y en busca de retos que me permitan mejorar.</i></p>
+<p>- <i>Ingeniero en Redes Inteligentes y Ciberseguridad con hobbies de todo un poco.</i></p>
 
 <img src="https://media1.tenor.com/m/g7dAcehcqAAAAAAC/akame-akame-ga-kill.gif" width="40%" align="right" />
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📚 Studying at the moment (Estudando en este momento)
+## 📚 Studying at the moment (Estudiando en este momento)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-Red-E50914?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Cybersecurity" />
